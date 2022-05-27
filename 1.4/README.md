@@ -1,0 +1,2 @@
+Answer what is shell in linux:
+Linux-os da shell bu bizga os bilan ishlashga yordam beradi.yani biz yozgan buyruqlarni amalga oshirish uchun va linux yadro bilan foydalanuvchi orasidagi muloqotni taminlaydi;
