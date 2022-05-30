@@ -31,3 +31,11 @@ b)user@ubuntu:~$ date +'%d-%m-%Y'
 
 user@ubuntu:~$ uname -a
 Linux ubuntu 5.15.0-33-generic #34-Ubuntu SMP Wed May 18 13:34:26 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+---Find out information about your identity
+cat /etc/shadow /etc/passwd; Foydalanuvchi haqida malumot beradi;
+
+--Show information about your current login session
+user@ubuntu:/# w  --> Foydalaanuvchi haqida va qacon kirgan sessiyaga qancha vaqtdan beri faol qanday ip bilan kirgan qaysi commandalarni ishlatyapti hammasi haqida malumot berib turadi;
+
+
