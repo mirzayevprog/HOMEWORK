@@ -1,1 +1,0 @@
-Check internet connection with ping

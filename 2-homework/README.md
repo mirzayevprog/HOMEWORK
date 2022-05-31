@@ -1,5 +1,0 @@
-Run the date command in such a way that the output from that
-command produces the current day, month, date, and year. Have
-that read into another command line, resulting in text that appears
-like the following (your date, of course, will be different): Today is
-Thursday, December 19, 2019.
