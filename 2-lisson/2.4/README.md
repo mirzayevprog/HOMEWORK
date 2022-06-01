@@ -1,0 +1,1 @@
+/etc -Bu papkada linux-os uchin va barcha app larni configuratsiya fayillari joylashgan 
