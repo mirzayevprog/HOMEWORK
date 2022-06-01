@@ -1,0 +1,1 @@
+/home -->Operatsion sestemadagi barcha userlarni uy papkalari va ular ichidagi malumotlar joylashgan 
