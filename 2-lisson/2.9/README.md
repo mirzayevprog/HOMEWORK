@@ -1,0 +1,1 @@
+/opt  -->Bu papkada operatsion systemaga urnatilgan tashqi repazotiryadan urnatilgan soflarni saqlaydi;
