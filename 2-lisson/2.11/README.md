@@ -1,0 +1,1 @@
+/var --->Bu papkada barcha os ishlatadigan uzgaruvchilar application ishlayotgan malum amallarni bajaryotganda shu papkadan foydalanadi;
