@@ -1,0 +1,1 @@
+/tmp Bu papkada vaqtincha saqlanadigan fayillar turadi istalgan user shu yerga vaqtincha fayillarni tashlab quyishi mn
