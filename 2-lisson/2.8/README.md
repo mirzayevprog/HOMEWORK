@@ -1,0 +1,1 @@
+/root -->Bu papkada faqat root user uchun uy papkasi hisoblanadi 
