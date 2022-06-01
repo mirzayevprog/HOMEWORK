@@ -1,0 +1,1 @@
+/mnt --->Bizda bironta hard disk mavjud va uni mount qilishimiz kerak odatda disklar /mnt papkasiga mount qilinadi;
