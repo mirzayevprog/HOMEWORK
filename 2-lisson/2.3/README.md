@@ -1,0 +1,1 @@
+/dev -Bu papkada qurulmaga ulangan hard disklarni fayil kurinishda cd-rom larmi kurishimiz mumkin
