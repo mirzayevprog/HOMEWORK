@@ -1,0 +1,13 @@
+Learn these commands
+
+- cd - #Bir papkadan boshqa papkaga utish uchin ishlatiladi;
+
+- pwd - #Bizni qaysi papkada turganligimizni chiqarib beradi;
+
+- mkdir - #Yangi papka yaratish uchin ishlatiladi;
+
+- chmod - #Fayil va papkalarga ruhsat berish uchin ishlatiladi fayilga uqish yozish uni ishga tushirsh uchun biz fayillarga chmod bilan ruhsat beramiz;
+
+- ls - #Fayil va papkalarni list shaklida bizga chiqarib beradi;
+
+- touch - #Yangi fayil yarish foydalaniladi;
