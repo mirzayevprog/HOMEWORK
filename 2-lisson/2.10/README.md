@@ -1,0 +1,1 @@
+/usr barcha uzgarmas fayilar va buyruqlar qurulmani graphic malumotlari joylashgan;
